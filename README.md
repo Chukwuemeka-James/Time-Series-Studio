@@ -8,4 +8,3 @@ Welcome to **Time Series Studio**, a repository dedicated to learning and experi
 - **Moving Average (MA) Models**
 - **Autoregressive Moving Average (ARMA) Models**
 - **ARIMA (AutoRegressive Integrated Moving Average)**
-- **Recurrent Neural Networks (RNN-LSTM) for Time Series Forecasting**
